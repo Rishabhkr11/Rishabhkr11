@@ -21,7 +21,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left"> &nbsp;&nbsp;
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>&nbsp;
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>&nbsp;
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>&nbsp;
