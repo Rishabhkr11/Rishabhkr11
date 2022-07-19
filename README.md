@@ -70,10 +70,10 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rishabh1107/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/rish11/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Rishabh_kr1107"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rishabh_.11_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/Rishu1107/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/Rish1107/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
 
